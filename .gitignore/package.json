@@ -14,7 +14,7 @@
     "node": "8.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
+    "url": "https://git.heroku.com/onchebot.git"
   },
   "license": "MIT",
   "keywords": [

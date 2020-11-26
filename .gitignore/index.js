@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const bot = new Discord.Client();
-const token = "Nzc2MDkyNDM4MzA4NTg1NDgy.X6v2aA.UCgFhY8UTfsbSnOy0ciTdf5PLMk";
+const token = "Nzc2MDkyNDM4MzA4NTg1NDgy.X6v2aA.Ud3yGhoGuKfKAYTLt3-Gw6GE_Jo";
 var prefix = ".";
 var mention = "126connectés";
 
@@ -330,4 +330,4 @@ bot.on("message", msg => {
 
 });
 
-bot.login('Nzc2MDkyNDM4MzA4NTg1NDgy.X6v2aA.UCgFhY8UTfsbSnOy0ciTdf5PLMk');
+bot.login('Nzc2MDkyNDM4MzA4NTg1NDgy.X6v2aA.Ud3yGhoGuKfKAYTLt3-Gw6GE_Jo');

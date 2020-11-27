@@ -4,7 +4,7 @@
   "description": "A Discord.js bot which uses a Command Handler",
   "main": "node index.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "discord.js": "^11.4.2",
@@ -14,7 +14,7 @@
     "node": "8.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
+    "url": "https://git.heroku.com/onchebot.git"
   },
   "license": "MIT",
   "keywords": [
